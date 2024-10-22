@@ -1,0 +1,18 @@
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\Console Banking App.exe
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\Console Banking App.deps.json
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\Console Banking App.runtimeconfig.json
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\Console Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\Console Banking App.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\BankLibrary.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\bin\Debug\net6.0\BankLibrary.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.csproj.AssemblyReference.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.AssemblyInfoInputs.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.AssemblyInfo.cs
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.csproj.CoreCompileInputs.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.csproj.CopyComplete
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\refint\Console Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\Console Banking App.genruntimeconfig.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Console Banking App\obj\Debug\net6.0\ref\Console Banking App.dll
