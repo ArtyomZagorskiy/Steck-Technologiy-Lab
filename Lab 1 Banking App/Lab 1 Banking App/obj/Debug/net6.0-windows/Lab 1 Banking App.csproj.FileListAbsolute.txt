@@ -1,0 +1,25 @@
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\Lab 1 Banking App.exe
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\Lab 1 Banking App.deps.json
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\Lab 1 Banking App.runtimeconfig.json
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\Lab 1 Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\Lab 1 Banking App.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.csproj.AssemblyReference.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.Form1.resources
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.Properties.Resources.resources
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.csproj.GenerateResource.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.AssemblyInfoInputs.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.AssemblyInfo.cs
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.csproj.CoreCompileInputs.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\refint\Lab 1 Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.genruntimeconfig.cache
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\ref\Lab 1 Banking App.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\BankLibrary.dll
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\bin\Debug\net6.0-windows\BankLibrary.pdb
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab 1 Banking App.csproj.CopyComplete
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.CardInput.resources
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.TransactionForm.resources
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.TransitionForm2.resources
+D:\C# projects\5 Semestr\Lab 1 Banking App\Lab 1 Banking App\obj\Debug\net6.0-windows\Lab_1_Banking_App.History.resources
