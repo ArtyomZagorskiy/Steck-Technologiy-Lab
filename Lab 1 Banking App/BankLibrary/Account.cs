@@ -31,11 +31,6 @@
             }
         }
 
-        /*public float getCurrentMoneyNumber()
-        {
-            return money;
-        }*/
-
         public void setMoneyNumber(float newAmount)
         {
             money = newAmount;
