@@ -1,0 +1,12 @@
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\bin\Debug\net6.0\Lab2Library.deps.json
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\bin\Debug\net6.0\Lab2Library.dll
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\bin\Debug\net6.0\Lab2Library.pdb
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.csproj.AssemblyReference.cache
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.AssemblyInfoInputs.cache
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.AssemblyInfo.cs
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.csproj.CoreCompileInputs.cache
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.dll
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\refint\Lab2Library.dll
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\Lab2Library.pdb
+D:\C# projects\5 Semestr\Lab 2 Collections and LINQ\Lab2Library\obj\Debug\net6.0\ref\Lab2Library.dll
