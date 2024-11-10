@@ -37,7 +37,7 @@ namespace Lab_1_Banking_App
 
         private void watchBalancebutton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("На карті " + currentATM.currentAccount.getCurrentMoneyNumber() + " деняг!", "Інформація", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("На карті " + currentATM.currentAccount.money + " деняг!", "Інформація", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void nearestATMButton_Click(object sender, EventArgs e)

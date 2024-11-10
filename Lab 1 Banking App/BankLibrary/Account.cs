@@ -5,7 +5,7 @@
         public string cardNumber;
         public int pin;
         public string name;
-        public float money;
+        public float money { get; set; }
 
         public Account(string _cardNumber,int _pin, string _name, float _money)
         {
@@ -29,11 +29,6 @@
             {
                 money += amount;
             }
-        }
-
-        public float getCurrentMoneyNumber()
-        {
-            return money;
         }
 
         public void setMoneyNumber(float newAmount)

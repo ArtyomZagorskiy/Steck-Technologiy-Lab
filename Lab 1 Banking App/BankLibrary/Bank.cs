@@ -5,21 +5,10 @@
         public string name;
         public List<AutomatedTellerMachine> machines = new List<AutomatedTellerMachine>();
         public List<Account> accounts = new List<Account>();
-        
+
         public Account GetAccountByCardNumber(string cardNumber)
         {
-            if (accounts == null)
-                return null;
-            
-            for(int i = 0; i < accounts.Count; i++)
-            {
-                if(accounts[i].cardNumberCheker(cardNumber))
-                {
-                    return accounts[i];
-                }
-            }
-
-            return null;
+            return accounts?.FirstOrDefault(account => account.cardNumberCheker(cardNumber));
         }
 
         public void AddNewAccount(string _cardNumber, int _pin, string _name, float _money)
@@ -38,14 +27,7 @@
 
         public bool isCardExist(string _cardNumber)
         {
-            for(int i = 0; i < accounts.Count; i++)
-            {
-                if (accounts[i].cardNumberCheker(_cardNumber))
-                {
-                    return true;
-                }
-            }
-            return false;
+            return accounts?.Any(account => account.cardNumberCheker(_cardNumber)) ?? false;
         }
     }
 }

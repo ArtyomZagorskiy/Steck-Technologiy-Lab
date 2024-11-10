@@ -18,12 +18,11 @@
         public float getCurrentBallance()
         {
             if (currentAccount != null)
-                return currentAccount.getCurrentMoneyNumber();
+                return currentAccount.money;
             
             return -1;
         }
 
-        //Todo add all transitions to Transitions array
         public void WithdrawOperation(float amount, int pin)
         {
             if (currentAccount != null && currentAccount.pinChecker(pin) && amount <= moneyCount)
@@ -108,7 +107,6 @@
 
             
             Random rand = new Random();
-            //int randomDays = rand.Next(0, 21);
             int randomHours = rand.Next(1, 12); 
             int randomMinutes = rand.Next(0, 60);
 
