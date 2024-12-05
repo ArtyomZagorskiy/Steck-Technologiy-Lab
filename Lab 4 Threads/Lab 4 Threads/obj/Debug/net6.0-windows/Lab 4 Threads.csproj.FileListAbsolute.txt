@@ -1,0 +1,17 @@
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\bin\Debug\net6.0-windows\Lab 4 Threads.exe
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\bin\Debug\net6.0-windows\Lab 4 Threads.deps.json
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\bin\Debug\net6.0-windows\Lab 4 Threads.runtimeconfig.json
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\bin\Debug\net6.0-windows\Lab 4 Threads.dll
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\bin\Debug\net6.0-windows\Lab 4 Threads.pdb
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.csproj.AssemblyReference.cache
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab_4_Threads.Form1.resources
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.csproj.GenerateResource.cache
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.AssemblyInfoInputs.cache
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.AssemblyInfo.cs
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.csproj.CoreCompileInputs.cache
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.dll
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\refint\Lab 4 Threads.dll
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.pdb
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\Lab 4 Threads.genruntimeconfig.cache
+D:\C# projects\5 Semestr\Lab 4 Threads\Lab 4 Threads\obj\Debug\net6.0-windows\ref\Lab 4 Threads.dll
