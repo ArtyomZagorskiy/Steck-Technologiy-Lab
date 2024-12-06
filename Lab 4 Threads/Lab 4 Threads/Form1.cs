@@ -91,22 +91,22 @@ namespace Lab_4_Threads
 
             if (e.Cancelled)
             {
-                MessageBox.Show("Процесс шифрования отменён.", "Отмена", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("ГЏГ°Г®Г¶ГҐГ±Г± ГёГЁГґГ°Г®ГўГ Г­ГЁГї Г®ГІГ¬ГҐГ­ВёГ­.", "ГЋГІГ¬ГҐГ­Г ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             else if(e.Result != null)
             {
                 EncryptionResult result = e.Result as EncryptionResult;
 
                 FileInfo encryptedFileInfo = new FileInfo(result.EncryptedFilePath);
-                string message = $"Шифрування завершено!\n" +
-                                 $"Назва файла: {encryptedFileInfo.Name}\n" +
-                                 $"Розмір файла: {encryptedFileInfo.Length} байт\n" +
-                                 $"Час, витрачений на шифрування: {result.ElapsedTime.ToString(@"hh\:mm\:ss")}";
-                MessageBox.Show(message, "Результати шифрування", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                string message = $"ГГЁГґГ°ГіГўГ Г­Г­Гї Г§Г ГўГҐГ°ГёГҐГ­Г®!\n" +
+                                 $"ГЌГ Г§ГўГ  ГґГ Г©Г«Г : {encryptedFileInfo.Name}\n" +
+                                 $"ГђГ®Г§Г¬ВіГ° ГґГ Г©Г«Г : {encryptedFileInfo.Length} ГЎГ Г©ГІ\n" +
+                                 $"Г—Г Г±, ГўГЁГІГ°Г Г·ГҐГ­ГЁГ© Г­Г  ГёГЁГґГ°ГіГўГ Г­Г­Гї: {result.ElapsedTime.ToString(@"hh\:mm\:ss")}";
+                MessageBox.Show(message, "ГђГҐГ§ГіГ«ГјГІГ ГІГЁ ГёГЁГґГ°ГіГўГ Г­Г­Гї", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show("Помилка при шифруванні!", "Помилка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("ГЏГ®Г¬ГЁГ«ГЄГ  ГЇГ°ГЁ ГёГЁГґГ°ГіГўГ Г­Г­Ві!", "ГЏГ®Г¬ГЁГ«ГЄГ ", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -304,8 +304,6 @@ namespace Lab_4_Threads
 
         private void changePriorityButton_Click(object sender, EventArgs e)
         {
-            if (encryptionThread != null && encryptionThread.IsAlive)
-            {
                 switch (currentPriority)
                 {
                     case ThreadPriority.Normal:
@@ -317,9 +315,6 @@ namespace Lab_4_Threads
                         changePriorityButton.Text = "Normal";
                         break;
                 }
-
-                encryptionThread.Priority = currentPriority;
-            }
         }
     }
 }
