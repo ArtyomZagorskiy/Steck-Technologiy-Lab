@@ -1,0 +1,16 @@
+﻿@model Lab_5_ASP_NET.Models.Recipe
+
+@{
+    ViewData["Title"] = "Delete Recipe";
+}
+
+<h1>Delete Recipe</h1>
+
+<h3>Are you sure you want to delete the recipe "@Model.Name"?</h3>
+
+<form method="post" asp-action="DeleteConfirmed">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Cookbook")" class="btn btn-secondary">Cancel</a>
+</form>
+
