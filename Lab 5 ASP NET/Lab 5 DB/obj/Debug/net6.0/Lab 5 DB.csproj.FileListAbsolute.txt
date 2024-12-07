@@ -1,0 +1,58 @@
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.deps.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.runtimeconfig.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\appsettings.Development.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\appsettings.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.staticwebassets.runtime.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.exe
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 DB.exe
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 DB.deps.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 DB.runtimeconfig.json
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 DB.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 DB.pdb
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\bin\Debug\net6.0\Lab 5 ASP NET.pdb
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.csproj.AssemblyReference.cache
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.AssemblyInfoInputs.cache
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.AssemblyInfo.cs
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.csproj.CoreCompileInputs.cache
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.csproj.CopyComplete
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\refint\Lab 5 DB.dll
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.pdb
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\Lab 5 DB.genruntimeconfig.cache
+D:\C# projects\5 Semestr\Lab 5 ASP NET\Lab 5 DB\obj\Debug\net6.0\ref\Lab 5 DB.dll
