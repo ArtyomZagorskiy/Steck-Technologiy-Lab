@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+ @model IEnumerable<Recipe>
+
+<h1>Recipes</h1>
+
+<table class="table">
+    @if(Model != null)
+    {
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Type</th>
+                <th>Preparation Time</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        @foreach (var recipe in Model)
+        {
+            <tr>
+                <td>@recipe.Name</td>
+                <td>@recipe.Description</td>
+                <td>@recipe.Type</td>
+                <td>@recipe.PreparationTime</td>
+                <td>
+                    <a href="/Cookbook/Edit/@recipe.Id">Edit</a> |
+                    <a href="/Cookbook/Delete/@recipe.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    }
+    else
+    {
+        <h6>У вас немає поки що рецептів. Можете їх створити)</h6>
+    }
+</table>
+
+<a href="/Cookbook/Create" class="btn btn-primary">Add New Recipe</a>
